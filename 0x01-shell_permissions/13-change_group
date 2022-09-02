@@ -1,2 +1,2 @@
-13. Change group
+#!/bin/bash
 chown hello:school *
