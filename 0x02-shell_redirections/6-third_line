@@ -1,2 +1,2 @@
 #!/bin/bash
-head -2 iacta|tail -1
+awk -F: 'NR==2 {print $1}' icata
