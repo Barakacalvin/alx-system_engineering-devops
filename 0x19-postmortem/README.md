@@ -37,6 +37,7 @@ Change permissions on /var/www/html/wp-settings.php to read-only for the team.
 Read carefully all setting files to look for other typos of that type.
 
 ![download](https://github.com/Barakacalvin/alx-system_engineering-devops/assets/30375880/08937bd0-4ec0-413b-9044-0d9dc2d52996)
+
 500 Error Joke
 
 Having blameless postmortems are a tenet of SRE culture. For a postmortem to be truly blameless, it must focus on identifying the contributing causes of the incident without indicting any individual or team for bad or inappropriate behavior. A blamelessly written postmortem assumes that everyone involved in an incident had good intentions and did the right thing with the information they had. If a culture of finger-pointing and shaming individuals or teams for doing the “wrong” thing prevails, people will not bring issues to light for fear of punishment.
